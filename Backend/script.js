@@ -5,7 +5,8 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
   const password = document.getElementById("password").value.trim();
   const message = document.getElementById("message");
 
-  // Dummy check
+  // Dummy check 
+  const emaia = document.getElementById
   if (email === "admin@example.com" && password === "123456") {
     message.textContent = "Login successful!";
     message.style.color = "lightgreen";
