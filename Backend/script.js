@@ -15,3 +15,4 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     message.style.color = "red";
   }
 });
+const aaalu = document.getElementsByClassName
